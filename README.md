@@ -7,3 +7,5 @@ It works great in C++, and I don't know why :(
 
 
 Also, encoding a buffer to an integer array and decoding it back to a buffer is now proprietary :3
+
+gplv3
